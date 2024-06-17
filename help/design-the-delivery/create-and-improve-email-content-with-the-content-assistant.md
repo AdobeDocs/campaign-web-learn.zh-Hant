@@ -1,6 +1,6 @@
 ---
 title: 使用內容助理建立及改善電子郵件內容
-description: 瞭解如何使用生成式 AI 支援的內容助理來建立及強化電子郵件內容，最佳化電子郵件傳遞，以便更能與您的對象產生共鳴。
+description: 瞭解如何使用創作AI支援的內容助理來建立及增強電子郵件內容。
 feature: Email Design
 role: User
 level: Beginner
@@ -11,17 +11,17 @@ jira: KT-14454
 hidefromtoc: true
 hide: true
 badgeAlpha: label="Alpha" type="informative" before-title="true"
-source-git-commit: 6ae7ba123510d6dc2dbf67561b5b0b2e87823592
+exl-id: 9502667e-0819-4cfb-84c9-ea68f07a8400
+source-git-commit: 1f603df605fa02b70880c0e0741db5927e17f7c5
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 100%
+source-wordcount: '78'
+ht-degree: 57%
 
 ---
 
-
 # 使用內容助理建立及改善電子郵件內容
 
-瞭解如何使用生成式 AI 支援的內容助理來建立及強化電子郵件內容，最佳化電子郵件傳遞，以便更能與您的對象產生共鳴。
+瞭解如何使用創作AI支援的內容助理來建立及增強電子郵件內容。
 
 >[!NOTE]
 >
@@ -29,4 +29,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425796/?learn=on)
 
-如需此功能的詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs.html?lang=zh-Hant)。
+如需此功能的詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs)。
