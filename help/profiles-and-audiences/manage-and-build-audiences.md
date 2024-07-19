@@ -8,13 +8,13 @@ doc-type: Feature Video
 duration: 615
 last-substantial-update: 2024-02-15T00:00:00Z
 jira: KT-14392
-source-git-commit: 6ae7ba123510d6dc2dbf67561b5b0b2e87823592
+exl-id: 59bd4866-02de-4bf6-a104-96416251e850
+source-git-commit: a20bff7850298b1a280435a369b5a9494bc2eb27
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 32%
 
 ---
-
 
 # 管理和建立對象
 

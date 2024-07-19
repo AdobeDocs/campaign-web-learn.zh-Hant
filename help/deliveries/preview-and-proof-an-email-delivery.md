@@ -8,13 +8,13 @@ doc-type: Feature Video
 duration: 386
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-14404
-source-git-commit: 6ae7ba123510d6dc2dbf67561b5b0b2e87823592
+exl-id: 4fcf42c6-d8e9-4aff-8e06-822aa381ffd7
+source-git-commit: a20bff7850298b1a280435a369b5a9494bc2eb27
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%
 
 ---
-
 
 # 預覽並校訂電子郵件傳遞
 

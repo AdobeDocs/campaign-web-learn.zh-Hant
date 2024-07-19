@@ -5,7 +5,8 @@ feature: Overview
 role: User, Admin, Developer
 recommendations: noDisplay, noCatalog
 level: Beginner, Intermediate, Experienced
-source-git-commit: 10e858e34a40157347f026c8c7a0db1326d872bc
+exl-id: 866568a7-0763-43f9-af75-0c6d70ea082a
+source-git-commit: a20bff7850298b1a280435a369b5a9494bc2eb27
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 100%
@@ -43,4 +44,3 @@ Campaign Platform 可依據企業與資料需求自訂，且可透過 Campaign �
 * **[全新 Adobe Campaign Web 使用者介面助您一臂之力](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=zh-Hant){target="_blank"}**
 
   *了解如何在新的使用者體驗中規劃、啟動和衡量跨頻道行銷活動。*
-

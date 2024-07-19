@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2023-11-29T00:00:00Z
 jira: KT-14388
-source-git-commit: 6ae7ba123510d6dc2dbf67561b5b0b2e87823592
+exl-id: 8c2f3847-5aca-4b7a-bf86-1212a741dfdd
+source-git-commit: a20bff7850298b1a280435a369b5a9494bc2eb27
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 100%
 
 ---
-
 
 # 探索 Campaign Web 使用者介面
 
