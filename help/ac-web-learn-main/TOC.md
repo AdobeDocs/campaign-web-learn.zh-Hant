@@ -18,7 +18,7 @@ ht-degree: 90%
 + [Adobe Campaign Web 使用者介面教學課程](/help/ac-web-learn-main/overview.md)
 + 開始使用{#getting-started}
    + [探索 Campaign Web 使用者介面](/help/get-started/explore-the-web-ui.md)
-   + 從Campaign Standard](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html)移轉後，[開始使用Adobe Campaign v8
+   + [移轉後，開始使用Adobe Campaign v8從Campaign Standard](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html)
 + 訊息和傳遞 {#messages-and-deliveries}
    + [建立電子郵件傳遞](/help/deliveries/create-an-email-delivery.md)
    + [從草稿開始設計電子郵件內容](/help/design-the-delivery/create-email-content-from-scratch.md)
