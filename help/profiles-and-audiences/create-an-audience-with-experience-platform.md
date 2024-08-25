@@ -1,5 +1,5 @@
 ---
-title: 使用 Experience Platform 建立對象
+title: 使用 Experience Platform 建立客群
 description: 瞭解如何建立目的地，將Experience Platform對象對應至Adobe Campaign。
 feature: Audiences
 role: User
@@ -16,7 +16,7 @@ ht-degree: 28%
 
 ---
 
-# 使用 Experience Platform 建立對象
+# 使用 Experience Platform 建立客群
 
 瞭解如何在Adobe Campaign中建立使用Experience Platform對象的目的地。
 

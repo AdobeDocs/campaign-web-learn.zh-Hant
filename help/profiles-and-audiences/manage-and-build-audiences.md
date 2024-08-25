@@ -1,5 +1,5 @@
 ---
-title: 管理和建立對象
+title: 管理和建立客群
 description: 瞭解如何建立和管理對象、如何選取傳送對象以及定義控制群組。
 feature: Audiences, Control Groups
 role: User
@@ -16,7 +16,7 @@ ht-degree: 32%
 
 ---
 
-# 管理和建立對象
+# 管理和建立客群
 
 瞭解如何建立和管理對象、如何選取傳送對象以及定義控制群組。
 

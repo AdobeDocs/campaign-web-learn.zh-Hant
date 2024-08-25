@@ -1,6 +1,6 @@
 ---
 title: 建立電子郵件傳遞
-description: 瞭解如何從草稿開始建立電子郵件傳遞、定義對象、設計內容、模擬預覽，以及傳送校訂。
+description: 瞭解如何從草稿開始建立電子郵件傳遞、定義客群、設計內容、模擬預覽，以及傳送校訂。
 feature: Campaigns, Email, Audiences
 role: User
 level: Beginner
@@ -11,14 +11,14 @@ jira: KT-14394
 exl-id: 94115929-c74f-4697-b2af-d57bcfc2735d
 source-git-commit: a20bff7850298b1a280435a369b5a9494bc2eb27
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # 建立電子郵件傳遞
 
-瞭解如何從草稿開始建立電子郵件傳遞、定義對象、設計內容、模擬預覽，以及傳送校訂。
+瞭解如何從草稿開始建立電子郵件傳遞、定義客群、設計內容、模擬預覽，以及傳送校訂。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425866/?learn=on)
 
