@@ -8,10 +8,10 @@ doc-type: Feature Video
 duration: 480
 last-substantial-update: 2024-09-04T00:00:00Z
 jira: KT-14398
-source-git-commit: 90666201b5bebb3b3b7189e4db321d624dd1c45f
+source-git-commit: 126d7606a457f40e24b5e08467290e579b559428
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 20%
+source-wordcount: '54'
+ht-degree: 18%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 20%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433316/?learn=on)
 
-如需詳細資訊，請參閱[產品檔案](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/direct-mail/gs-direct-mail)。
+如需詳細資訊，請參閱[Campaign Web使用者介面產品檔案](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/direct-mail/gs-direct-mail)。
