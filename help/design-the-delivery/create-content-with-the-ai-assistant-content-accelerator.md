@@ -7,8 +7,10 @@ level: Beginner, Intermediate, Experienced
 doc-type: Feature Video
 duration: 235
 last-substantial-update: 2024-09-11T00:00:00Z
-jira: KT-16190
-source-git-commit: 3d47ea04c9b927695620ef8e6b550155fe901ad9
+jira: KT-16191
+hidefromtoc: true
+hide: true
+source-git-commit: 2950e226ad832e2f6becf487c52fe05d6816a90c
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
