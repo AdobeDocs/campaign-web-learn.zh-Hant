@@ -5,21 +5,21 @@ feature: Email Design
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Feature Video
-duration: 235
+duration: 206
 last-substantial-update: 2024-09-11T00:00:00Z
 jira: KT-16191
-hidefromtoc: true
-hide: true
-source-git-commit: 2950e226ad832e2f6becf487c52fe05d6816a90c
+hidefromtoc: false
+hide: false
+source-git-commit: 002cf5bcd434b5ead21c4359c64e6057619589bd
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
 
-# 使用Journey Optimizer中的AI Assistant建立內容 — 內容加速器
+# 在Campaign - Content Accelerator中使用AI助理建立內容
 
-瞭解如何在[!DNL Adobe Journey Optimizer - Content Accelerator]中使用AI小幫手，以產生與目標受眾產生共鳴的即時1:1和批次行銷活動的頻道感知內容。
+瞭解如何在Campaign - Content Accelerator中使用AI Assistant來產生管道感知內容，以用於即時1:1和批次行銷活動，與目標受眾產生共鳴。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433552/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433569/?learn=on)
