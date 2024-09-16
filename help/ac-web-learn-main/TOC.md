@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Web 使用者介面
 user-guide-description: 瞭解如何使用 Adobe Campaign Web 使用者介面的特性與功能。
 breadcrumb-title: Web 使用者介面 - 教學課程
 auto-video-transcripts: true
-source-git-commit: 5de2884c7673b3bc3b37392aabb7cb9c2b01b6a4
+source-git-commit: 39bb7a2ee3e2605192eaadf46d27fc883f2c2643
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 93%
+source-wordcount: '138'
+ht-degree: 88%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 93%
 
 + [Adobe Campaign Web 使用者介面教學課程](/help/ac-web-learn-main/overview.md)
 + 開始使用{#getting-started}
+   + [Adobe Campaign v8採用指南](https://experienceleague.adobe.com/en/docs/campaign-web/acs-to-ac/home)
    + [探索 Campaign Web 使用者介面](/help/get-started/explore-the-web-ui.md)
-   + [從 Campaign Standard 移轉後，開始使用 Adobe Campaign v8](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html?lang=zh-Hant)
 + 訊息和傳遞 {#messages-and-deliveries}
    + [建立電子郵件傳遞](/help/deliveries/create-an-email-delivery.md)
    + [從草稿開始設計電子郵件內容](/help/design-the-delivery/create-email-content-from-scratch.md)
