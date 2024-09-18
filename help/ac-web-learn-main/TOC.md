@@ -2,13 +2,13 @@
 product: adobe campaign
 sub-product: Campaign v8 Web User Interface
 user-guide-title: Adobe Campaign Web 使用者介面
-user-guide-description: 瞭解如何使用 Adobe Campaign Web 使用者介面的特性與功能。
+user-guide-description: 了解如何使用 Adobe Campaign Web 使用者介面的特性與功能。
 breadcrumb-title: Web 使用者介面 - 教學課程
 auto-video-transcripts: true
 source-git-commit: 39bb7a2ee3e2605192eaadf46d27fc883f2c2643
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 88%
+ht-degree: 95%
 
 ---
 
@@ -24,11 +24,11 @@ ht-degree: 88%
    + [從草稿開始設計電子郵件內容](/help/design-the-delivery/create-email-content-from-scratch.md)
    + [透過上傳 HTML 建立電子郵件](/help/design-the-delivery/create-an-email-by-uploading-html.md)
    + [使用內容助理建立及改善電子郵件內容](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
-   + [在Campaign - Content Accelerator中使用AI助理建立內容](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
+   + [在 Campaign - Content Accelerator 中使用 AI 助理建立內容](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
    + [預覽並校訂電子郵件傳遞](/help/deliveries/preview-and-proof-an-email-delivery.md)
-   + [建立新的直接郵件傳遞](/help/design-the-delivery/create-a-direct-mail-delivery.md)
+   + [建立直接郵件傳遞](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + 輪廓與客群 {#profiles-and-audiences}
-   + [探索設定檔](/help/profiles-and-audiences/explore-profiles.md)
+   + [探索客群](/help/profiles-and-audiences/explore-profiles.md)
    + [管理和建立客群](/help/profiles-and-audiences/manage-and-build-audiences.md)
    + [使用 Experience Platform 建立客群](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + 工作流程 {#workflows}
