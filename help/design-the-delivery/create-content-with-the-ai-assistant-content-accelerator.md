@@ -10,10 +10,10 @@ duration: 206
 last-substantial-update: 2024-09-11T00:00:00Z
 hidefromtoc: false
 hide: false
-source-git-commit: f16d7d8d0db84ce411b3ff5f8922de05ade5dcab
-workflow-type: ht
-source-wordcount: '78'
-ht-degree: 100%
+source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
+workflow-type: tm+mt
+source-wordcount: '99'
+ht-degree: 80%
 
 ---
 
@@ -23,3 +23,7 @@ ht-degree: 100%
 了解如何在 Campaign - Content Accelerator 中使用 AI 助理為即時一對一行銷活動及批次行銷活動產生管道感知內容，從而與目標客群產生共鳴。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433569/?learn=on)
+
+## 額外資源
+
+* Experience League即時： [AI Bash — 在Adobe Experience Platform應用程式和行銷活動中解鎖AI助理的強大功能](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
