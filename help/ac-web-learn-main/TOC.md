@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Web 使用者介面
 user-guide-description: 了解如何使用 Adobe Campaign Web 使用者介面的特性與功能。
 breadcrumb-title: Web 使用者介面 - 教學課程
 auto-video-transcripts: true
-source-git-commit: d5625a3edfc642ab006f295401c2532e3d6e1b37
+source-git-commit: 0d61de1f116d1ee98abbb1e120a8a4d09db7ed4f
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 95%
+source-wordcount: '154'
+ht-degree: 85%
 
 ---
 
@@ -36,4 +36,5 @@ ht-degree: 95%
 + Experience League 直播記錄{#exl-live-recordings}
    + [全新 Adobe Campaign Web 使用者介面助您一臂之力](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=zh-Hant){target="_blank"}
 + [Campaign 用戶端主控台教學課程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=zh-Hant){target="_blank"}
++ [AI Bash — 解鎖Adobe Experience Platform應用程式和行銷活動中的AI助理功能](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
 

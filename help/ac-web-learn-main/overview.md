@@ -6,10 +6,10 @@ role: User, Admin, Developer
 recommendations: noDisplay, noCatalog
 level: Beginner, Intermediate, Experienced
 exl-id: 866568a7-0763-43f9-af75-0c6d70ea082a
-source-git-commit: a20bff7850298b1a280435a369b5a9494bc2eb27
+source-git-commit: 0d61de1f116d1ee98abbb1e120a8a4d09db7ed4f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '305'
+ht-degree: 88%
 
 ---
 
@@ -44,3 +44,8 @@ Campaign Platform 可依據企業與資料需求自訂，且可透過 Campaign �
 * **[全新 Adobe Campaign Web 使用者介面助您一臂之力](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=zh-Hant){target="_blank"}**
 
   *了解如何在新的使用者體驗中規劃、啟動和衡量跨頻道行銷活動。*
+
+* **[AI Bash — 解鎖Adobe Experience Platform應用程式和行銷活動中的AI助理功能](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
+
+  *探索AI Assistant如何在Adobe Experience Cloud應用程式和Adobe Campaign中轉換客戶互動並提高生產力。*
+
