@@ -6,9 +6,9 @@ user-guide-description: 了解如何使用 Adobe Campaign Web 使用者介面的
 breadcrumb-title: Web 使用者介面 - 教學課程
 auto-video-transcripts: true
 source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '154'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 85%
 
 + [Adobe Campaign Web 使用者介面教學課程](/help/ac-web-learn-main/overview.md)
 + 開始使用{#getting-started}
-   + [Adobe Campaign v8採用指南](https://experienceleague.adobe.com/en/docs/campaign-web/acs-to-ac/home)
+   + [Adobe Campaign v8 採用指南](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/acs-to-ac/home)
    + [探索 Campaign Web 使用者介面](/help/get-started/explore-the-web-ui.md)
 + 訊息和傳遞 {#messages-and-deliveries}
    + [建立電子郵件傳遞](/help/deliveries/create-an-email-delivery.md)
@@ -35,5 +35,5 @@ ht-degree: 85%
    + [建立目標定位工作流程](/help/workflows/create-a-targeting-workflow.md)
 + Experience League 直播記錄{#exl-live-recordings}
    + [全新 Adobe Campaign Web 使用者介面助您一臂之力](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=zh-Hant){target="_blank"}
-+ [Campaign 用戶端主控台教學課程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=zh-Hant){target="_blank"}
-+ [AI Bash — 解鎖Adobe Experience Platform應用程式和行銷活動中的AI助理功能](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
++ [Campaign 用戶端主控台教學課程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html){target="_blank"}
++ [AI 盛會 - 釋放 Adobe Experience Platform 應用程式和 Campaign 中 AI 助理的強大功能](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
