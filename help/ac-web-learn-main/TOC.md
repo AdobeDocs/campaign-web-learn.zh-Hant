@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Web 使用者介面
 user-guide-description: 了解如何使用 Adobe Campaign Web 使用者介面的特性與功能。
 breadcrumb-title: Web 使用者介面 - 教學課程
 auto-video-transcripts: true
-source-git-commit: 3dd71a4f48ce20b2118806120baba50c6a6429aa
+source-git-commit: 9869357b23d4fee7ec0a9ae7fa1806d0857d9630
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 97%
+source-wordcount: '167'
+ht-degree: 96%
 
 ---
 
