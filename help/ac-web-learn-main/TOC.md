@@ -6,9 +6,9 @@ user-guide-description: 了解如何使用 Adobe Campaign Web 使用者介面的
 breadcrumb-title: Web 使用者介面 - 教學課程
 auto-video-transcripts: true
 source-git-commit: 9869357b23d4fee7ec0a9ae7fa1806d0857d9630
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '167'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 96%
    + [在 Campaign - Content Accelerator 中使用 AI 助理建立內容](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
    + [建立直接郵件傳遞](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + 內容管理 {#content-management}
-   + [使用動態內容增強傳遞](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
+   + [透過動態內容增強傳遞](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
 + 輪廓與客群 {#profiles-and-audiences}
    + [探索客群](/help/profiles-and-audiences/explore-profiles.md)
    + [建立和管理測試輪廓](/help/profiles-and-audiences/create-and-manage-test-profiles.md)
