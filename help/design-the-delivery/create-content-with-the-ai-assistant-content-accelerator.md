@@ -1,6 +1,6 @@
 ---
-title: 在 Campaign - Content Accelerator 中使用 AI 助理建立內容
-description: 了解如何在 Campaign - Content Accelerator 中使用 AI 助理為即時一對一行銷活動及批次行銷活動產生管道感知內容，從而與目標客群產生共鳴。
+title: 使用AI助理建立內容以供產生內容
+description: 瞭解如何使用AI Assistant產生內容，以產生Real-time 1:1和批次行銷活動的管道感知內容，進而引起目標受眾的共鳴。
 feature: Email Design
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -10,17 +10,17 @@ duration: 206
 last-substantial-update: 2024-09-11T00:00:00Z
 hidefromtoc: false
 hide: false
-source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
-workflow-type: ht
-source-wordcount: '99'
-ht-degree: 100%
+exl-id: 4204e19b-3b4b-42f1-ae60-1c4c6b44039e
+source-git-commit: 5786cc852e17ec39c43480ccfd6051a2a8f3bd72
+workflow-type: tm+mt
+source-wordcount: '95'
+ht-degree: 22%
 
 ---
 
+# 使用AI助理建立內容以供產生內容
 
-# 在 Campaign - Content Accelerator 中使用 AI 助理建立內容
-
-了解如何在 Campaign - Content Accelerator 中使用 AI 助理為即時一對一行銷活動及批次行銷活動產生管道感知內容，從而與目標客群產生共鳴。
+瞭解如何使用AI Assistant產生內容，以產生Real-time 1:1和批次行銷活動的管道感知內容，進而引起目標受眾的共鳴。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433569/?learn=on)
 
