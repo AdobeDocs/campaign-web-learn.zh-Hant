@@ -1,13 +1,13 @@
 ---
 cloud: Experience Cloud
-version: v8 Web User Interface
-solution: Campaign
+version: Campaign v8, Campaign v8 Web User Interface
+solution: Campaign, Campaign v8, Campaign v8 Web User Interface
 product: adobe campaign-web
 feature-set: Campaign
 type: Tutorial
 index: true
 git-repo: https://github.com/AdobeDocs/campaign-web-learn.zh-Hant
-source-git-commit: 6512569ec970066d6670b390af83afdbfeae0d84
+source-git-commit: e72a26ec098c473132970902eb47cbb562784dfa
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 98%
