@@ -23,4 +23,4 @@ ht-degree: 43%
 >[!VIDEO](https://video.tv.adobe.com/v/3425873/?learn=on)
 
 
-如需此功能的詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html)。
+如需此功能的詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html?lang=zh-Hant)。

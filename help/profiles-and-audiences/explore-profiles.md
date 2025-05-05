@@ -22,4 +22,4 @@ ht-degree: 98%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427293/?learn=on)
 
-如需有關此功能的詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients.html)
+如需有關此功能的詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients.html?lang=zh-Hant)
