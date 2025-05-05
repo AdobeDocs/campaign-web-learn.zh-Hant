@@ -23,6 +23,6 @@ ht-degree: 100%
 
 了解如何在 Adobe Campaign v8 Web 使用者介面中建立直接郵件傳遞。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433316/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451794/?learn=on&captions=chi_hant)
 
 如需詳細資訊，請參閱 [Campaign Web 使用者介面產品文件](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/msg/direct-mail/gs-direct-mail)。

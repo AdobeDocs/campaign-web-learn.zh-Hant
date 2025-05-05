@@ -20,7 +20,7 @@ ht-degree: 43%
 
 瞭解工作流程的工作方式以及如何建立目標工作流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425873/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453983/?learn=on&captions=chi_hant)
 
 
 如需此功能的詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html?lang=zh-Hant)。

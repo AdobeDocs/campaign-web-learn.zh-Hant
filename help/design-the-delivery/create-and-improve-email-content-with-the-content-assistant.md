@@ -27,6 +27,6 @@ ht-degree: 0%
 >
 > 此功能目前可在 Alpha 版本中使用，如有變更，恕不另行通知。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425796/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452088/?learn=on&captions=chi_hant)
 
 如需此功能的詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs)。

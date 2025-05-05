@@ -22,4 +22,4 @@ ht-degree: 6%
 
 瞭解如何在使用者端主控台中建立測試設定檔，以及如何在Adobe Campaign Web UI中管理和編輯設定檔。
 
->[!VIDEO](https://video.tv.adobe.com/v/3442844/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442906/?learn=on&enablevpops&captions=chi_hant)

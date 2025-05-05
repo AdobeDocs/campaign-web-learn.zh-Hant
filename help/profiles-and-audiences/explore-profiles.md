@@ -20,6 +20,6 @@ ht-degree: 98%
 
 瞭解如何使用 Campaign Web 使用者介面存取、管理及探索設定檔。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427293/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448375/?learn=on&captions=chi_hant)
 
 如需有關此功能的詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients.html?lang=zh-Hant)

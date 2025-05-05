@@ -20,6 +20,6 @@ ht-degree: 0%
 
 瞭解如何從草稿開始建立電子郵件傳遞、定義客群、設計內容、模擬預覽，以及傳送校訂。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425866/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454016/?learn=on&captions=chi_hant)
 
 如需有關此功能的詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/gs-deliveries.html?lang=zh-Hant)

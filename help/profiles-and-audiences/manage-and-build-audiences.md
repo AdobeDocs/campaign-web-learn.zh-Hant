@@ -20,6 +20,6 @@ ht-degree: 32%
 
 瞭解如何建立和管理對象、如何選取傳送對象以及定義控制群組。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425861/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453213/?learn=on&captions=chi_hant)
 
 如需有關此功能的詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/audiences/create-audience.html?lang=zh-Hant)

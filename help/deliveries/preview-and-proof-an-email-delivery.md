@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解如何預覽電子郵件訊息內容和個人化、傳送測試傳送 (校樣) 給特定收件者或訂閱者以進行測試和驗證，以及檢查熱門桌面、行動和 Web 用戶端中的電子郵件呈現。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425862/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450348/?learn=on&captions=chi_hant)
