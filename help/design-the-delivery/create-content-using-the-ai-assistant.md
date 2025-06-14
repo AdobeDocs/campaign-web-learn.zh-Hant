@@ -22,7 +22,7 @@ ht-degree: 20%
 
 瞭解如何使用Adobe的AI Assistant Content Accelerator快速產生和自訂行銷電子郵件，包括主旨行、內文和影像，同時整合品牌核准的資產以達致一致性和合規性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463762/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463775/?learn=on&enablevpops&captions=chi_hant)
 
 ## 額外資源
 
