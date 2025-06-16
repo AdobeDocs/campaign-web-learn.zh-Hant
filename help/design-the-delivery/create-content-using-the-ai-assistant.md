@@ -1,6 +1,6 @@
 ---
-title: 使用AI助理建立內容以產生內容
-description: 瞭解如何使用Adobe的AI Assistant Content Accelerator快速產生和自訂行銷電子郵件，包括主旨行、內文和影像，同時整合品牌核准的資產以達致一致性和合規性。
+title: 使用用於內容產生的 AI 助理來建立內容
+description: 了解如何使用 Adobe 的 AI 助理內容加速器來快速產生和客製化行銷電子郵件 (包括主旨列、內文和影像)，同時整合品牌核准的資產以確保一致性和合規性。
 feature: Email Design
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -12,17 +12,17 @@ hidefromtoc: false
 hide: false
 exl-id: 4204e19b-3b4b-42f1-ae60-1c4c6b44039e
 source-git-commit: c0586330363a33e23b77c911c984aece9bb6ae83
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 20%
+ht-degree: 100%
 
 ---
 
-# 使用AI助理建立內容以產生內容
+# 使用用於內容產生的 AI 助理來建立內容
 
-瞭解如何使用Adobe的AI Assistant Content Accelerator快速產生和自訂行銷電子郵件，包括主旨行、內文和影像，同時整合品牌核准的資產以達致一致性和合規性。
+了解如何使用 Adobe 的 AI 助理內容加速器來快速產生和客製化行銷電子郵件 (包括主旨列、內文和影像)，同時整合品牌核准的資產以確保一致性和合規性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463775/?learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3463762/?learn=on&enablevpops)
 
 ## 額外資源
 
