@@ -22,7 +22,7 @@ ht-degree: 100%
 
 了解如何使用 Adobe 的 AI 助理內容加速器來快速產生和客製化行銷電子郵件 (包括主旨列、內文和影像)，同時整合品牌核准的資產以確保一致性和合規性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463762/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463775/?learn=on&enablevpops&captions=chi_hant)
 
 ## 額外資源
 
