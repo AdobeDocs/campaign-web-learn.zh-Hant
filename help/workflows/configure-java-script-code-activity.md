@@ -24,4 +24,4 @@ ht-degree: 8%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464918/?learn=on&enablevpops)
 
-請參閱[產品文件](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/design-workflows/javascript-code)以瞭解關於此功能的更多資訊。
+請參閱[產品文件](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/wf/design-workflows/javascript-code)以瞭解關於此功能的更多資訊。
