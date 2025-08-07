@@ -22,6 +22,6 @@ ht-degree: 11%
 
 本教學課程涵蓋簡單和進階指令碼模式。 其說明執行設定和錯誤處理。 您將會看到真實世界的範例，例如鎖定目標VIP設定檔、轉換資料及觸發條件式作業。
 
->[!VIDEO](https://video.tv.adobe.com/v/3464918/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464930/?learn=on&enablevpops&captions=chi_hant)
 
 請參閱[產品文件](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/wf/design-workflows/javascript-code)以瞭解關於此功能的更多資訊。
