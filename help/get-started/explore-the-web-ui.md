@@ -20,7 +20,7 @@ ht-degree: 93%
 
 了解如何存取及導覽 Campaign Web 使用者介面，以及如何自訂庫存清單。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427278/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453433/?captions=chi_hant&learn=on)
 
 試用**[可點按的示範](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)！
 
