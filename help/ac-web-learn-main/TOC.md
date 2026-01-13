@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign Web 使用者介面
 user-guide-description: 了解如何使用 Adobe Campaign Web 使用者介面的特性與功能。
 breadcrumb-title: Web 使用者介面 - 教學課程
 auto-video-transcripts: true
-source-git-commit: ad2377dde49c1ab0f805c998d407d04ffe659c26
+source-git-commit: 9dd078a55d56e62c260a528585b33f786c492455
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 95%
@@ -17,9 +17,9 @@ ht-degree: 95%
 
 + [Adobe Campaign Web 使用者介面教學課程](/help/ac-web-learn-main/overview.md)
 + 開始使用 {#getting-started}
+   + [互動式示範](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)
    + [Adobe Campaign v8 採用指南](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/acs-to-ac/home)
    + [探索 Campaign Web 使用者介面](/help/get-started/explore-the-web-ui.md)
-   + [互動式示範](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)
 + 訊息和傳遞 {#messages-and-deliveries}
    + [建立電子郵件傳遞](/help/deliveries/create-an-email-delivery.md)
    + [從草稿開始設計電子郵件內容](/help/design-the-delivery/create-email-content-from-scratch.md)
@@ -39,5 +39,5 @@ ht-degree: 95%
    + [設定Java指令碼活動](/help/workflows/configure-java-script-code-activity.md)
 + Experience League 直播錄影 {#exl-live-recordings}
    + [全新 Adobe Campaign Web 使用者介面助您一臂之力](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=zh-Hant){target="_blank"}
-+ [Campaign 用戶端主控台教學課程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=zh-Hant){target="_blank"}
++ [Campaign 用戶端主控台教學課程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html){target="_blank"}
 + [AI 盛會 - 釋放 Adobe Experience Platform 應用程式和 Campaign 中 AI 助理的強大功能](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
