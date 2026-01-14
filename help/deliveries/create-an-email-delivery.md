@@ -10,9 +10,9 @@ last-substantial-update: 2024-02-14T00:00:00Z
 jira: KT-14394
 exl-id: 94115929-c74f-4697-b2af-d57bcfc2735d
 source-git-commit: a20bff7850298b1a280435a369b5a9494bc2eb27
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '61'
+ht-degree: 100%
 
 ---
 
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 瞭解如何從草稿開始建立電子郵件傳遞、定義客群、設計內容、模擬預覽，以及傳送校訂。
 
->[!VIDEO](https://video.tv.adobe.com/v/3454016/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3425866/?learn=on)
 
 如需有關此功能的詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/gs-deliveries.html?lang=zh-Hant)
