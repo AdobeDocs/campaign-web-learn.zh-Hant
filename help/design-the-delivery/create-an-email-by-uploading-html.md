@@ -20,4 +20,4 @@ ht-degree: 100%
 
 瞭解如何透過上傳 HTML 建立電子郵件、如何使其與電子郵件設計工具相容、以及如何將其轉換為範本。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427633/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447043/?captions=chi_hant&learn=on)
