@@ -6,9 +6,9 @@ user-guide-description: 了解如何使用 Adobe Campaign Web 使用者介面的
 breadcrumb-title: Web 使用者介面 - 教學課程
 auto-video-transcripts: true
 source-git-commit: 9dd078a55d56e62c260a528585b33f786c492455
-workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 95%
+workflow-type: ht
+source-wordcount: '232'
+ht-degree: 100%
 
 ---
 
@@ -36,8 +36,8 @@ ht-degree: 95%
    + [使用 Experience Platform 建立客群](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + 工作流程 {#workflows}
    + [建立目標定位工作流程](/help/workflows/create-a-targeting-workflow.md)
-   + [設定Java指令碼活動](/help/workflows/configure-java-script-code-activity.md)
+   + [設定 JavaScript 程式碼活動](/help/workflows/configure-java-script-code-activity.md)
 + Experience League 直播錄影 {#exl-live-recordings}
-   + [全新 Adobe Campaign Web 使用者介面助您一臂之力](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=zh-Hant){target="_blank"}
-+ [Campaign 用戶端主控台教學課程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=zh-Hant){target="_blank"}
+   + [全新 Adobe Campaign Web 使用者介面助您一臂之力](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html){target="_blank"}
++ [Campaign 用戶端主控台教學課程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html){target="_blank"}
 + [AI 盛會 - 釋放 Adobe Experience Platform 應用程式和 Campaign 中 AI 助理的強大功能](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)

@@ -1,6 +1,6 @@
 ---
 title: 建立和管理測試輪廓
-description: 在Adobe Campaign中建立行銷活動時，您可以在傳送的訊息中建立動態內容及個人化。 測試設定檔可讓您仔細檢查您傳送的訊息是否如預期般顯示給使用者。 瞭解如何在使用者端主控台中建立測試設定檔，以及如何在Adobe Campaign Web UI中管理和編輯設定檔。
+description: 在 Adobe Campaign 中建立行銷活動時，您可以在傳送的訊息內建立動態內容及個人化。測試輪廓可讓您仔細檢查您所傳送的訊息是否如預期般向使用者顯示。了解如何在用戶端主控台中建立測試輪廓，以及如何在 Adobe Campaign Web UI 中管理和編輯輪廓。
 feature: Test Profiles
 role: User
 level: Beginner
@@ -8,18 +8,18 @@ doc-type: Feature Video
 duration: 147
 last-substantial-update: 2025-01-10T00:00:00Z
 jira: KT-16501
-source-git-commit: 3e61b8aa5ee1dc9c22fe4a94f7195b1ad545a4c6
-workflow-type: tm+mt
+exl-id: 8dba42f2-14fe-42c9-855d-0bc30054b817
+source-git-commit: 275f5188a6852e1173703ffa7566cf0fbc23b357
+workflow-type: ht
 source-wordcount: '144'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
-
 # 建立和管理測試輪廓
 
-在Adobe Campaign中建立行銷活動時，您可以在傳送的訊息中建立動態內容及個人化。 測試設定檔可讓您仔細檢查您傳送的訊息是否如預期般顯示給使用者。
+在 Adobe Campaign 中建立行銷活動時，您可以在傳送的訊息內建立動態內容及個人化。測試輪廓可讓您仔細檢查您所傳送的訊息是否如預期般向使用者顯示。
 
-瞭解如何在使用者端主控台中建立測試設定檔，以及如何在Adobe Campaign Web UI中管理和編輯設定檔。
+了解如何在用戶端主控台中建立測試輪廓，以及如何在 Adobe Campaign Web UI 中管理和編輯輪廓。
 
->[!VIDEO](https://video.tv.adobe.com/v/3442906/?learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3442844/?learn=on&enablevpops)
