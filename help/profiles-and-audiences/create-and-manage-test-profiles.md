@@ -22,4 +22,4 @@ ht-degree: 100%
 
 了解如何在用戶端主控台中建立測試輪廓，以及如何在 Adobe Campaign Web UI 中管理和編輯輪廓。
 
->[!VIDEO](https://video.tv.adobe.com/v/3442844/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442906/?captions=chi_hant&learn=on&enablevpops)
