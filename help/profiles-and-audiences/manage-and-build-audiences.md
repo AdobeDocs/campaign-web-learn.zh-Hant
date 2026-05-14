@@ -29,6 +29,6 @@ ht-degree: 100%
 
 了解如何建立和管理客群、選取用於傳遞的客群，以及定義控制組。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425861/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453213/?captions=chi_hant&learn=on)
 
 如需有關此功能的詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/audiences/create-audience.html?lang=zh-hant)

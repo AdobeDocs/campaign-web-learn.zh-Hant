@@ -29,6 +29,6 @@ ht-degree: 100%
 
 了解如何存取及導覽 Campaign Web 使用者介面，以及如何自訂庫存清單。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427278/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453433/?captions=chi_hant&learn=on)
 
 如需有關如何導覽 Campaign v8 Web 使用者介面的詳細資訊，請參閱[開始使用 Adobe Campaign Web](https://experienceleague.adobe.com/docs/campaign-web/v8/start/get-started.html?lang=zh-Hant)。

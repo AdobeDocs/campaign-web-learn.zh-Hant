@@ -27,7 +27,7 @@ ht-degree: 100%
 
 了解工作流程如何運作，以及如何建立目標選擇工作流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425873/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453983/?captions=chi_hant&learn=on)
 
 
 如需此功能的詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html?lang=zh-Hant)。
