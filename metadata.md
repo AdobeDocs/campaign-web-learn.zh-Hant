@@ -12,7 +12,7 @@ landing-page-name: campaign
 landing-page-breadcrumb-title: Campaign
 type: Tutorial
 index: true
-git-repo: https://github.com/AdobeDocs/campaign-web-learn.en
+git-repo: https://github.com/AdobeDocs/campaign-web-learn.zh-Hant
 source-git-commit: 1401229e16f3018432abf391e825a40b8af73d32
 workflow-type: tm+mt
 source-wordcount: 70
