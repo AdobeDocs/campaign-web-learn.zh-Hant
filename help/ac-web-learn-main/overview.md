@@ -6,27 +6,44 @@ role: User, Admin, Developer
 recommendations: noDisplay, noCatalog
 level: Beginner, Intermediate, Experienced
 exl-id: 866568a7-0763-43f9-af75-0c6d70ea082a
-TQID: https://experienceleague.adobe.com/VFMFjH6-16SgqNtE-SDTRw388n8v1-3-HihNXJWxfdU
+TQID: 'https://experienceleague.adobe.com/VFMFjH6-16SgqNtE-SDTRw388n8v1-3-HihNXJWxfdU'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: d0e9f0b2-1f2b-4134-9844-49cd4e950f27
+    internal-label: Campaign v8
+  - id: ccdd4c6f-8203-4e89-85f0-79883f86f5fd
+    internal-label: Campaign v8 Web User Interface
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
+    internal-label: Campaigns
+  - id: c5474392-5419-4296-9e41-f6f4ce4f6e9b
+    internal-label: Administration
+subfeature_v2:
+  - id: e8d937ec-9046-41b5-834b-d22a624e0d37
+    internal-label: Campaign overview
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: 8991e608238e8a09e618809744685e07780dd57c
+    internal-label: Customer experience
+source-git-commit: c48e002b8c10d512d8a30b6d6facac568c894c6f
 workflow-type: tm+mt
-source-wordcount: 400
+source-wordcount: '400'
 ht-degree: 100%
-
 ---
-
 # Adobe Campaign Web 使用者介面教學課程
 
 Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。 本使用手冊包含了 Adobe Campaign Web 使用者介面特色與功能的相關影片與教學課程。
