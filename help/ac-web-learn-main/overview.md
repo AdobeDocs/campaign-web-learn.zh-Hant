@@ -54,7 +54,7 @@ Campaign Platform 可依據企業與資料需求自訂，且可透過 Campaign �
 
 >[!INFO]
 > 
-> 有疑問嗎？ 您想與同行分享經驗或交流想法嗎？ 或者，您是否對 Adobe 團隊的學習內容有回饋？ 在 **[Adobe Campaign 學習社群對話串](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096){target="_blank"}**&#x200B;中加入對話！
+> 有疑問嗎？ 您想與同行分享經驗或交流想法嗎？ 或者，您是否對 Adobe 團隊的學習內容有回饋？ 在 **[Adobe Campaign 學習社群對話串](https://experienceleaguecommunities.adobe.com?lang=zh_tw:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096){target="_blank"}**&#x200B;中加入對話！
 >
 >
 > 這些教學課程不是您要尋找的內容？
